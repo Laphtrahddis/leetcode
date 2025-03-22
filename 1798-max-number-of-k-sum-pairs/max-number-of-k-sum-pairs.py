@@ -5,9 +5,10 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        left,right=0,len(nums)-1
+        left=0
         count=0
         nums.sort()
+        right=len(nums)-1
         while left<right:
             som=nums[left]+nums[right]
             if(som==k):

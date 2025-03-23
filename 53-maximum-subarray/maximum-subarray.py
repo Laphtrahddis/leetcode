@@ -3,15 +3,13 @@ class Solution(object):
         """
         :type nums: List[int]
         :rtype: int
-        """
-        maxsum=nums[0]
-        j=0
-        n=len(nums)
-        currsum=0
-        while(j<n):
-            if currsum<0:
-                currsum=0
-            currsum+=nums[j]
-            maxsum=max(maxsum,currsum)
-            j+=1
-        return maxsum    
+        """   
+        max_sum = float('-inf') #max sum found so far
+        curr_sum = 0
+        for i in nums:
+            curr_sum = curr_sum + i
+            if curr_sum > max_sum:
+                max_sum = curr_sum
+            if curr_sum < 0:
+                curr_sum = 0
+        return max_sum

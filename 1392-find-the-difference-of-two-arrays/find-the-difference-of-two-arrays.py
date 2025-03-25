@@ -5,12 +5,13 @@ class Solution(object):
         :type nums2: listt[int]
         :rtype: listt[listt[int]]
         """
-        listt=[[],[]]
-        for i in nums1:
-            if i not in nums2 and i not in listt[0]:
-                listt[0].append(i)
-        for i in nums2:
-            if i not in nums1 and i not in listt[1]:
-                listt[1].append(i)
-        return listt
+        nums1set,nums2set=set(nums1),set(nums2)
+        set1,set2=set(),set()
+        for i in nums1set:
+            if i not in nums2set:
+                set1.add(i)
+        for i in nums2set:
+            if i not in nums1set:
+                set2.add(i)
+        return [list(set1),list(set2)]
         

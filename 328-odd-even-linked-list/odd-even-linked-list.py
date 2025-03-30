@@ -19,8 +19,7 @@ class Solution(object):
         # return head
         if not head or not head.next:
             return head
-        odd=head
-        even=head.next
+        odd,even=head,head.next
         evenhead=even
         while even and even.next:
             odd.next=even.next

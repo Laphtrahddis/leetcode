@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: List[int]
         """
         n=len(nums)
-        n=n//3
         dict={}
         for i in nums:
             if i not in dict:
@@ -14,7 +13,7 @@ class Solution(object):
                 dict[i]+=1
         lst=[]
         for key,value in dict.items():
-            if value>n:
+            if value>n//3:
                 lst.append(key)
         return lst
         

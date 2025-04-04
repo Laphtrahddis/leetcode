@@ -6,14 +6,12 @@ class Solution(object):
         """
         n=len(nums)
         dict={}
+        lst=[]
         for i in nums:
             if i not in dict:
                 dict[i]=1
             else:
                 dict[i]+=1
-        lst=[]
-        for key,value in dict.items():
-            if value>n//3:
-                lst.append(key)
+            if dict[i]==(n//3)+1:
+                    lst.append(i)
         return lst
-        

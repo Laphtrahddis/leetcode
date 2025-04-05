@@ -9,6 +9,8 @@ class Solution(object):
         n=len(nums)
         st=set()
         for i in range(n-3):
+            if i>0 and nums[i]==nums[i-1]:
+                continue
             for j in range(i+1,n-2):
                 k,l=j+1,n-1
                 while(k<l):

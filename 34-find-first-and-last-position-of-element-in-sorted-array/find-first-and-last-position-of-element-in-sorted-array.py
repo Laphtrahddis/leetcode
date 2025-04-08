@@ -5,8 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        low=0
-        lb=-1
+        low,lb=0,-1
         high=len(nums)-1
         while(low<=high):
             mid=(low+high)//2
@@ -20,9 +19,8 @@ class Solution(object):
         if lb==-1:
             return (-1,-1)
         else:
-            low=0
-            high=len(nums)-1
-            up=76272
+            low,high=0,len(nums)-1
+            up=-1
             while(low<=high):
                 mid=(low+high)//2
                 if nums[mid]==target:

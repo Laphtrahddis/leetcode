@@ -5,8 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        split=-1
-        n=len(nums)
+        split,n=-1,len(nums)
         if len(nums)==1:
             if nums[0]==target:
                 return True
@@ -19,8 +18,7 @@ class Solution(object):
             nums=nums[split+1:n]+nums[0:split+1]
         #print(nums)
         found=-1
-        low=0
-        high=n-1
+        low,high=0,n-1
         while(low<=high):
             mid=(low+high)//2
             if nums[mid]==target:

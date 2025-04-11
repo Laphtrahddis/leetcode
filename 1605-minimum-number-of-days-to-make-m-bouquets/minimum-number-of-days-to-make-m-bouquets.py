@@ -1,8 +1,7 @@
 class Solution(object):
     # #m is the number of bouqets and k is the number of adjacent flowers we need to use.
     def calculate(self,bloomDay,mid,m,k):
-        count=0
-        answer=0
+        count,answer=0,0
         for j in bloomDay:
             if j<=mid:
                 count+=1
@@ -17,8 +16,7 @@ class Solution(object):
             return 0
 
     def minDays(self, bloomDay, m, k):
-        low=min(bloomDay)
-        high=max(bloomDay)
+        low,high=min(bloomDay),max(bloomDay)
         answer=-1
         while low<=high:
             mid=(low+high)//2

@@ -5,11 +5,12 @@ class Solution(object):
         for j in bloomDay:
             if j<=mid:
                 count+=1
+                if count==k:
+                    answer+=1
+                    count=0
             else:
                 count=0
-            if count==k:
-                answer+=1
-                count=0
+            
         if answer>=m:
             return 1
         else:

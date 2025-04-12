@@ -1,6 +1,5 @@
 def shippable(weights,mid,days):
-    countdays=0
-    som=0
+    countdays,som=0,0
     for i in weights:
         som+=i
         if som>mid:
@@ -14,9 +13,7 @@ def shippable(weights,mid,days):
         return True
 class Solution(object):
     def shipWithinDays(self, weights, days):
-        #weights.sort()
-        low=max(weights)
-        high=sum(weights)
+        low,high=max(weights),sum(weights)
         answer=-1
         while(low<=high):
             mid=(low+high)//2

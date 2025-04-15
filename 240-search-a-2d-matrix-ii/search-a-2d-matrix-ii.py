@@ -5,8 +5,8 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        m=len(matrix)
-        n=len(matrix[0])
+        m,n=len(matrix),len(matrix[0])
+        #n=len(matrix[0])
         for i in range(m-1,-1,-1):
             if matrix[i][0]==target:
                 return True
@@ -14,8 +14,8 @@ class Solution(object):
                 continue
             else:
                 #binary search karo
-                low=0
-                high=n-1
+                low,high=0,n-1
+                #high=n-1
                 while(low<=high):
                     mid=(low+high)//2
                     if matrix[i][mid]==target:

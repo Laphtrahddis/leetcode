@@ -4,12 +4,12 @@ class Solution(object):
         :type s: str
         :type t: str
         :rtype: bool
-        """
-        s=list(s)
-        t=list(t)
-        if len(s)!=len(t): return False
-        prevs=s[0]
-        prevt=t[0]
+        # """
+        # s=list(s)
+        # t=list(t)
+        # if len(s)!=len(t): return False
+        # prevs=s[0]
+        # prevt=t[0]
         dict={}
         for i in range(len(s)):
             if s[i] not in dict:

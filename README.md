@@ -1,12 +1,12 @@
 # LeetCode solutions — Siddharth Pal
 
-74 problems solved · Easy 28 · Medium 44 · Hard 2 · Python (Two Sum in C++)
+75 problems solved · Easy 29 · Medium 44 · Hard 2 · Python (Two Sum in C++)
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
 ## By topic
 
-### Arrays & Hashing (16)
+### Arrays & Hashing (17)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -23,6 +23,7 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | statement only |
 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [code](1392-find-the-difference-of-two-arrays/find-the-difference-of-two-arrays.py) |
 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | Medium | [code](1777-determine-if-two-strings-are-close/determine-if-two-strings-are-close.py) |
+| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [code](1929-concatenation-of-array/concatenation-of-array.py) |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [code](2271-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py) |
 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | [code](2428-equal-row-and-column-pairs/equal-row-and-column-pairs.py) |
 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | Easy | [code](3227-find-missing-and-repeated-values/find-missing-and-repeated-values.py) |

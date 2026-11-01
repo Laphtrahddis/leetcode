@@ -1,12 +1,12 @@
 # LeetCode solutions — Siddharth Pal
 
-75 problems solved · Easy 29 · Medium 44 · Hard 2 · Python (Two Sum in C++)
+76 problems solved · Easy 30 · Medium 44 · Hard 2 · Python (Two Sum in C++)
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
 ## By topic
 
-### Arrays & Hashing (17)
+### Arrays & Hashing (18)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -15,6 +15,7 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [code](136-single-number/single-number.py) |
 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [code](169-majority-element/majority-element.py) |
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [code](205-isomorphic-strings/isomorphic-strings.py) |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [code](217-contains-duplicate/contains-duplicate.py) |
 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | [code](229-majority-element-ii/majority-element-ii.py) |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [code](242-valid-anagram/valid-anagram.py) |
 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [code](268-missing-number/missing-number.py) |

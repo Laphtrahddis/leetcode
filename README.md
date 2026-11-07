@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-79 problems solved · Easy 32 · Medium 45 · Hard 2 · Python (Two Sum in C++)
+80 problems solved · Easy 33 · Medium 45 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -139,3 +139,9 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | Problem | Difficulty | Solution |
 |---|---|---|
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | [code](56-merge-intervals/merge-intervals.py) |
+
+### SQL (1)
+
+| Problem | Difficulty | Solution |
+|---|---|---|
+| [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [code](595-big-countries/big-countries.sql) |

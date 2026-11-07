@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-76 problems solved · Easy 30 · Medium 44 · Hard 2 · Python (Two Sum in C++)
+77 problems solved · Easy 31 · Medium 44 · Hard 2 · Python (Two Sum in C++)
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -81,13 +81,14 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | [code](1646-kth-missing-positive-number/kth-missing-positive-number.py) |
 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii) | Medium | [code](2047-find-a-peak-element-ii/find-a-peak-element-ii.py) |
 
-### Strings (8)
+### Strings (9)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | [code](5-longest-palindromic-substring/longest-palindromic-substring.py) |
 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [code](8-string-to-integer-atoi/string-to-integer-atoi.py) |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [code](14-longest-common-prefix/longest-common-prefix.py) |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [code](412-fizz-buzz/fizz-buzz.py) |
 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [code](812-rotate-string/rotate-string.py) |
 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | [code](1078-remove-outermost-parentheses/remove-outermost-parentheses.py) |
 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | [code](1737-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.py) |

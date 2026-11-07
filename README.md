@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-81 problems solved · Easy 34 · Medium 45 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+82 problems solved · Easy 35 · Medium 45 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -40,7 +40,7 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [code](1480-running-sum-of-1d-array/running-sum-of-1d-array.py) |
 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [code](1833-find-the-highest-altitude/find-the-highest-altitude.py) |
 
-### Two Pointers (7)
+### Two Pointers (8)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -48,6 +48,7 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [4Sum](https://leetcode.com/problems/4sum) | Medium | [code](18-4sum/4sum.py) |
 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [code](75-sort-colors/sort-colors.py) |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [code](88-merge-sorted-array/merge-sorted-array.py) |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [code](125-valid-palindrome/valid-palindrome.py) |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [code](283-move-zeroes/move-zeroes.py) |
 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | [code](443-string-compression/string-compression.py) |
 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | Medium | [code](1798-max-number-of-k-sum-pairs/max-number-of-k-sum-pairs.py) |

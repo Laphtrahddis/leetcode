@@ -1,17 +1,18 @@
 # LeetCode solutions — Siddharth Pal
 
-85 problems solved · Easy 36 · Medium 47 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+86 problems solved · Easy 36 · Medium 48 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
 ## By topic
 
-### Arrays & Hashing (18)
+### Arrays & Hashing (19)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [code](1-two-sum/two-sum.cpp) |
 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium | [code](31-next-permutation/next-permutation.py) |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [code](49-group-anagrams/group-anagrams.py) |
 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [code](136-single-number/single-number.py) |
 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [code](169-majority-element/majority-element.py) |
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [code](205-isomorphic-strings/isomorphic-strings.py) |

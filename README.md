@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-86 problems solved · Easy 36 · Medium 48 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+87 problems solved · Easy 37 · Medium 48 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -56,10 +56,11 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | [code](443-string-compression/string-compression.py) |
 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | Medium | [code](1798-max-number-of-k-sum-pairs/max-number-of-k-sum-pairs.py) |
 
-### Sliding Window (4)
+### Sliding Window (5)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [code](121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | [code](643-maximum-average-subarray-i/maximum-average-subarray-i.py) |
 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | [code](1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | Medium | [code](1567-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.py) |

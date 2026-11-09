@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-87 problems solved · Easy 37 · Medium 48 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+88 problems solved · Easy 37 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -113,10 +113,11 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | [code](969-number-of-recent-calls/number-of-recent-calls.py) |
 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | Medium | [code](2470-removing-stars-from-a-string/removing-stars-from-a-string.py) |
 
-### Linked List (4)
+### Linked List (5)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | [code](19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | [code](206-reverse-linked-list/reverse-linked-list.py) |
 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Medium | [code](328-odd-even-linked-list/odd-even-linked-list.py) |
 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | [code](2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py) |

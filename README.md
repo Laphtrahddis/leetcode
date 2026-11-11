@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-88 problems solved · Easy 37 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+89 problems solved · Easy 38 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -103,10 +103,11 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) | Medium | [code](1890-sum-of-beauty-of-all-substrings/sum-of-beauty-of-all-substrings.py) |
 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [code](2032-largest-odd-number-in-string/largest-odd-number-in-string.py) |
 
-### Stack & Queue (5)
+### Stack & Queue (6)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | [code](232-implement-queue-using-stacks/implement-queue-using-stacks.py) |
 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | [code](394-decode-string/decode-string.py) |
 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | Medium | [code](649-dota2-senate/dota2-senate.py) |
 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | statement only |

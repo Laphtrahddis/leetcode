@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-89 problems solved · Easy 38 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+92 problems solved · Easy 41 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -66,13 +66,14 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | Medium | [code](1567-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | [code](1586-longest-subarray-of-1s-after-deleting-one-element/longest-subarray-of-1s-after-deleting-one-element.py) |
 
-### Binary Search (17)
+### Binary Search (18)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | [code](4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | [code](33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) |
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | [code](34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [code](35-search-insert-position/search-insert-position.py) |
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | [code](74-search-a-2d-matrix/search-a-2d-matrix.py) |
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | Medium | [code](81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.py) |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | [code](153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py) |
@@ -124,12 +125,13 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | [code](2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py) |
 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | Medium | [code](2236-maximum-twin-sum-of-a-linked-list/maximum-twin-sum-of-a-linked-list.py) |
 
-### Trees (4)
+### Trees (5)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [code](104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy | [code](112-path-sum/path-sum.py) |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [code](226-invert-binary-tree/invert-binary-tree.py) |
 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | [code](904-leaf-similar-trees/leaf-similar-trees.py) |
 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | [code](1544-count-good-nodes-in-binary-tree/count-good-nodes-in-binary-tree.py) |
 
@@ -148,9 +150,10 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 |---|---|---|
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | [code](56-merge-intervals/merge-intervals.py) |
 
-### SQL (2)
+### SQL (3)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
+| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | [code](175-combine-two-tables/combine-two-tables.sql) |
 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [code](595-big-countries/big-countries.sql) |
 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [code](1757-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) |

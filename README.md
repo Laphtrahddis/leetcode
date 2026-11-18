@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-92 problems solved · Easy 41 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+93 problems solved · Easy 42 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -125,10 +125,11 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | [code](2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py) |
 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | Medium | [code](2236-maximum-twin-sum-of-a-linked-list/maximum-twin-sum-of-a-linked-list.py) |
 
-### Trees (5)
+### Trees (6)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
+| [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [code](100-same-tree/same-tree.py) |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [code](104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy | [code](112-path-sum/path-sum.py) |
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [code](226-invert-binary-tree/invert-binary-tree.py) |

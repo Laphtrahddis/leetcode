@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-93 problems solved · Easy 42 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+94 problems solved · Easy 43 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -144,6 +144,12 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [code](54-spiral-matrix/spiral-matrix.py) |
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [code](73-set-matrix-zeroes/set-matrix-zeroes.py) |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | [code](118-pascals-triangle/pascals-triangle.py) |
+
+### Heap (1)
+
+| Problem | Difficulty | Solution |
+|---|---|---|
+| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [code](1046-last-stone-weight/last-stone-weight.py) |
 
 ### Intervals (1)
 

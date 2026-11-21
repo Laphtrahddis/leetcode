@@ -1,6 +1,6 @@
 # LeetCode solutions — Siddharth Pal
 
-94 problems solved · Easy 43 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
+96 problems solved · Easy 45 · Medium 49 · Hard 2 · Python (Two Sum in C++), SQL in MySQL
 
 Each folder holds the problem statement (`README.md`) and my solution. Folders from 2025 were synced by LeetSync; solutions from Oct 2026 onward are part of my interview prep and note the approach and complexity.
 
@@ -157,10 +157,12 @@ Each folder holds the problem statement (`README.md`) and my solution. Folders f
 |---|---|---|
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | [code](56-merge-intervals/merge-intervals.py) |
 
-### SQL (3)
+### SQL (5)
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | [code](175-combine-two-tables/combine-two-tables.sql) |
+| [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | [code](181-employees-earning-more-than-their-managers/employees-earning-more-than-their-managers.sql) |
+| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [code](182-duplicate-emails/duplicate-emails.sql) |
 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [code](595-big-countries/big-countries.sql) |
 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [code](1757-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) |
